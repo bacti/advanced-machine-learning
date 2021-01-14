@@ -86,7 +86,7 @@ gc.collect()
 
 
     
-![png](images/autoencoder_output_7_2.png)
+![png](images/autoencoders_output_7_2.png)
     
 
 
@@ -210,31 +210,31 @@ for i in range(5):
 
 
     
-![png](images/autoencoder_output_14_1.png)
+![png](images/autoencoders_output_14_1.png)
     
 
 
 
     
-![png](images/autoencoder_output_14_2.png)
+![png](images/autoencoders_output_14_2.png)
     
 
 
 
     
-![png](images/autoencoder_output_14_3.png)
+![png](images/autoencoders_output_14_3.png)
     
 
 
 
     
-![png](images/autoencoder_output_14_4.png)
+![png](images/autoencoders_output_14_4.png)
     
 
 
 
     
-![png](images/autoencoder_output_14_5.png)
+![png](images/autoencoders_output_14_5.png)
     
 
 
@@ -578,31 +578,31 @@ for i in range(5):
 
 
     
-![png](images/autoencoder_output_24_1.png)
+![png](images/autoencoders_output_24_1.png)
     
 
 
 
     
-![png](images/autoencoder_output_24_2.png)
+![png](images/autoencoders_output_24_2.png)
     
 
 
 
     
-![png](images/autoencoder_output_24_3.png)
+![png](images/autoencoders_output_24_3.png)
     
 
 
 
     
-![png](images/autoencoder_output_24_4.png)
+![png](images/autoencoders_output_24_4.png)
     
 
 
 
     
-![png](images/autoencoder_output_24_5.png)
+![png](images/autoencoders_output_24_5.png)
     
 
 
@@ -682,7 +682,7 @@ show_image(apply_gaussian_noise(X_train[:1], sigma = 0.5)[0])
 
 
     
-![png](images/autoencoder_output_30_0.png)
+![png](images/autoencoders_output_30_0.png)
     
 
 
@@ -757,31 +757,31 @@ for i in range(5):
 
 
     
-![png](images/autoencoder_output_33_1.png)
+![png](images/autoencoders_output_33_1.png)
     
 
 
 
     
-![png](images/autoencoder_output_33_2.png)
+![png](images/autoencoders_output_33_2.png)
     
 
 
 
     
-![png](images/autoencoder_output_33_3.png)
+![png](images/autoencoders_output_33_3.png)
     
 
 
 
     
-![png](images/autoencoder_output_33_4.png)
+![png](images/autoencoders_output_33_4.png)
     
 
 
 
     
-![png](images/autoencoder_output_33_5.png)
+![png](images/autoencoders_output_33_5.png)
     
 
 
@@ -865,7 +865,7 @@ show_similar(X_test[247])
 
 
     
-![png](images/autoencoder_output_41_0.png)
+![png](images/autoencoders_output_41_0.png)
     
 
 
@@ -877,7 +877,7 @@ show_similar(X_test[56])
 
 
     
-![png](images/autoencoder_output_42_0.png)
+![png](images/autoencoders_output_42_0.png)
     
 
 
@@ -889,7 +889,7 @@ show_similar(X_test[63])
 
 
     
-![png](images/autoencoder_output_43_0.png)
+![png](images/autoencoders_output_43_0.png)
     
 
 
@@ -926,31 +926,31 @@ for _ in range(5):
 
 
     
-![png](images/autoencoder_output_47_0.png)
+![png](images/autoencoders_output_47_0.png)
     
 
 
 
     
-![png](images/autoencoder_output_47_1.png)
+![png](images/autoencoders_output_47_1.png)
     
 
 
 
     
-![png](images/autoencoder_output_47_2.png)
+![png](images/autoencoders_output_47_2.png)
     
 
 
 
     
-![png](images/autoencoder_output_47_3.png)
+![png](images/autoencoders_output_47_3.png)
     
 
 
 
     
-![png](images/autoencoder_output_47_4.png)
+![png](images/autoencoders_output_47_4.png)
     
 
 
